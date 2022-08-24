@@ -1,2 +1,5 @@
 # STEP_session_7
-Geometry
+
+## The big picture
+
+# Geometry
